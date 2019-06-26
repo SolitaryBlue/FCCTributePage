@@ -3,7 +3,7 @@ li {
 }
 
 #main {
-  background-color: #eee;
+  background-color: #fff;
   font-family: Montserrat, sans-serif;
 }
 
@@ -17,7 +17,7 @@ li {
 }
 #image {
   display: block;
-  max-width: 100%;
+  max-width: 90%;
   height: auto;
   margin: auto;
 }
@@ -38,4 +38,5 @@ li {
   padding-bottom: 5px;
   text-align: center;
   font-style: italic;
+  font-size: 12px;
 }
