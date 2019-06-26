@@ -1,0 +1,41 @@
+li {
+  margin-bottom: 10px;
+}
+
+#main {
+  background-color: #eee;
+  font-family: Raleway, sans-serif;
+}
+
+#title {
+  text-align: center;
+  padding-top: 4px;
+}
+
+#title p {
+  font-style: italic;
+}
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+#img-caption {
+  font-family: Raleway, sans-serif;
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+#tribute-info {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+#footer {
+  padding-bottom: 5px;
+  text-align: center;
+  font-style: italic;
+}
