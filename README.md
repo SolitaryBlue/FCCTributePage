@@ -3,4 +3,4 @@ This is my first Responsive Web Design project for <a href="https://www.freecode
 
 The project requirements can be found <a href="https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/" target="_blank">here</a>.
 
-You can view my tribute page here: https://codepen.io/SolitaryBlue/pen/OoMLYY.
+You can view my tribute page here: https://solitaryblue.github.io/FCCTributePage/
