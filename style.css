@@ -17,9 +17,11 @@ li {
 }
 #image {
   display: block;
-  max-width: 90%;
+  max-width: 4000px;
+  max-height: 500px;
   height: auto;
-  margin: auto;
+  width: auto;
+  align-content: center;
 }
 
 #img-caption {
